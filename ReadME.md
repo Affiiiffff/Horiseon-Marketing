@@ -1,5 +1,5 @@
 This is my homework assignment for week 1. (Horiseon marketing refactor)
 
-![screenshot of html deployed in browser](C:\Users\afifp\horiseon-marketing\horiseon-marketing\03-Homework\Assets\01-html-css-git-homework-demo.png)
+![screenshot of html deployed in browser](03-Homework\Assets\01-html-css-git-homework-demo.png)
 
 https://affiiiffff.github.io/horiseon-marketing/
